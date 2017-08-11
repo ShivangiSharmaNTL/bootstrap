@@ -1,0 +1,130 @@
+/*jumbotron*/
+.jumbotron2
+{
+	background-image: url('http://images.mapsofindia.com/my-india/2015/04/history-of-indian-cinema-665x347.jpg');
+	color: yellow;
+	height: 450px;
+	background-attachment: fixed;
+	margin-top: 100px;
+	font-size:20px;
+}
+
+/*container*/
+.containe
+{
+	margin-top: 10px;
+}
+
+/*nav*/
+nav
+{
+	background-color: black;
+}
+
+/*jumbotron*/
+.jumbotron1
+{ 
+	background-image:url('https://www.planwallpaper.com/background-hd');
+	width: 100%;
+	position: fixed;
+}
+
+.imgmain
+{
+	width: 100%;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img
+{
+	width: 100%;
+	margin: auto;
+	box-shadow: black;
+}
+
+/*iframe*/
+iframe
+{
+	width:100%;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+/*footer*/
+footer
+{
+	margin-top: 100px;
+	background-color: black; 
+
+	color: white;
+}
+
+footer a
+{
+	text-decoration: bold;
+	color: white;
+}
+
+footer li
+{
+	display: inline;
+}
+
+.footmain 
+{
+	padding-top: 50px;
+}
+
+.foot_list li 
+{
+	padding: 5px;
+	border: 2px gray;
+	border-radius: 6px;
+	font-size: 25px;
+}
+
+.foot_list li:first-child 
+{
+	border: 0px;
+	font-size: 19px;
+}
+
+.foot_list1 li 
+{
+	font-size: 17px;
+}
+
+.foot_list1 li:after
+{
+	content: '|';
+	margin-left: 15px;
+}
+
+.foot_list1 li:last-child:after
+{
+	content: '';
+}
+
+.foot_list2 li 
+{
+	font-size: 17px;
+	font-weight: 400;
+}
+
+.foot_list2 li:after
+{
+	content: '|';
+	margin-left: 15px;
+}
+
+.foot_list2 li:last-child:after
+{
+	content: '';
+}
+
+.copyright_section 
+{
+	width: 100%;
+	margin-top: 50px;
+	
+}

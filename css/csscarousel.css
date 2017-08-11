@@ -1,0 +1,14 @@
+#myCarousel {
+	margin-top: 60px;
+}
+
+.carousel-caption {
+	font-size: 24px;
+}
+
+#myCarousel .item { height: 600px; }
+
+.img1, .img2, .img3
+{
+	width: 100%;
+}
